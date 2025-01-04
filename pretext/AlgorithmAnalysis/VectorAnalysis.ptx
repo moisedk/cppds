@@ -44,6 +44,7 @@
 using namespace std;
 
 void test1(int num){
+    # testing
     vector &lt;int&gt; vect;
     vect.reserve(num);
     for (int i = 0; i &lt; num; i++){
